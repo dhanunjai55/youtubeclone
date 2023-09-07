@@ -1,0 +1,1 @@
+document.getElementsByTagName('h1').innerText="i am dhanunjai";
